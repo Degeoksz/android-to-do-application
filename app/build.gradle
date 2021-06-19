@@ -49,4 +49,7 @@ dependencies {
     // Instrumentation tests
     androidTestImplementation "androidx.test.ext:junit:$junit_android_test_implementation_version"
     androidTestImplementation "androidx.test.espresso:espresso-core:$espresso_version"
+
+    // RxJava
+    implementation "io.reactivex.rxjava3:rxjava:$rxjava_version"
 }

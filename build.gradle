@@ -7,6 +7,7 @@ buildscript {
         junit_test_implementation_version = "4.13.2"
         junit_android_test_implementation_version = "1.1.2"
         espresso_version = "3.3.0"
+        rxjava_version = "3.0.13"
     }
     repositories {
         google()
